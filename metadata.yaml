@@ -1,0 +1,37 @@
+_repo: La-conscience-dans-le-mal-roman_68516
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbert de Voisins, Auguste
+    aliases:
+    - Voisins, Gilbert de
+    - Gilbert de Voisins, Auguste, comte
+    - De Voisins, Gilbert
+    - Voisins, Auguste Gilbert de
+    birthdate: 1877
+    deathdate: 1939
+    gutenberg_agent_id: '46652'
+    url: http://www.gutenberg.org/2009/agents/46652
+    wikipedia: https://fr.wikipedia.org/wiki/Auguste_Gilbert_de_Voisins
+description: ''
+gutenberg_issued: '2022-07-13'
+identifiers:
+  gutenberg: '68516'
+language: fr
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015065818026
+pgterms:marc905: 20201011054336gilbertdev
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: France :Georges Crès,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'La conscience dans le mal: roman'
+url: http://www.gutenberg.org/ebooks/68516
